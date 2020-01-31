@@ -11,12 +11,12 @@ Note: For this project (1991 Los Angeles City Planning Documents) this step has 
 
 Open up a google spreadsheet and at the top of the columns write the following in order so that it looks like below: 
 
-**In Catalog    Name    Call #    Date    #Maps Included    Content/Notes**
+**In Catalog        Name        Call #        Date        #Maps Included        Content/Notes**
 
 It should be six columns from A to F.
 
 *In Catalog* refers to whether or not the file can be located within USC’s digital catalog through a search. This is a step done after all of the materials have been documented within the spreadsheet. Write “Yes” if the file can be found online and “No” if it can’t. If you find the file but it is under a different name, call number, or finding it required a different search than the others, indicate this through parentheses next to the initial answer e.g. “Yes (under different call number)”
-You can search the USC library catalog for the binders using [this link](https://libraries.usc.edu/)
+You can search the USC library catalog for the binders using [this link](https://libraries.usc.edu/).
 
 *Name* refers to the name of the document as referenced on the title sheet within the binder or the name printed on the side of the binder. Generally these two names are the same but if there is no name on the side of the binder than use the name on the title sheet within. If no name is indicated anywhere write down “No Name Included”. Make sure that the punctuation is transcribed correctly e.g. if the counties are separated by a / or by a , then you need to include this. Capitalization of names isn’t required beyond the first letter.
 
