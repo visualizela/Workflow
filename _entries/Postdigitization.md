@@ -9,6 +9,7 @@ number: 4000
 After the digitization and organization is complete we move onto the next step with is creating a master spreadsheet, this spreadsheet is for the individual pages within the binders rather than the binders themselves.
 
 Create another spreadsheet labeled LA Planning 1991 Master (or whatever your collections name is) and label nine columns from A to I. It should be in this order:
+
 **ID    Title    Title on Google Drive    Folder on Google Drive    Map Included (Y/N)    Page Number    Date(s) Included?    Basic Description    Extra Documentation**
 
 *ID* refers to the unique ID that each page will have. The ID is created by the user (for our case we used planning_00001, planning_00002, etc. to refer to each individual document.
