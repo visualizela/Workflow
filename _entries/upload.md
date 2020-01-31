@@ -6,7 +6,7 @@ title: Uploading Map to GitHub
 number: 6000
 ---
 
-The information that can be found here is taken from [this presentation.] (https://maptimela.github.io/map-website/)
+The information that can be found here is taken from [this presentation] (https://maptimela.github.io/map-website/).
 
 For this you are going to need a GitHub account
 Once signed in make a repository by clicking the plus sign near your profile and scrolling down to the “New Repository” button. 
