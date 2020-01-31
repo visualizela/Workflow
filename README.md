@@ -1,2 +1,2 @@
 
-Documentation for Digital Mapping Ecosystems workshop.
+Workflow for 2020 Internship at USC's VKC Library.
