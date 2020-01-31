@@ -7,6 +7,6 @@ number: 1000
 title: Introduction
 ---
 
-Welcome to Digital Mapping Ecosystems! This workshop is both an introduction to critical cartography practices and a hands-on tutorial that will guide you throught the process of creating and sharing a digital mapping project. This site provides complete documentation for the workshop.
+The process of digitizing, georeferencing, and publishing the documents from the 1991 LA City Planning collection at USC's VKC library is one that involved many steps. If you are continuing to work on this project or are doing something similar please follow the instructions below.
 
-This workshop is a work in progress and the site will be updated accordingly. 
+Before any of this work is done, it is imperative that a digital location (a Google drive was used for this internship, but any drive would be fine) is made so that all of the materials are located in one easy to access place. The individual worker can structure this drive how they like but for the sake of this workflow I will be documenting how I achieved this.
