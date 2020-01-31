@@ -2,7 +2,7 @@
 sectionid: Digitization
 sectionclass: h1
 is-parent: yes
-title: Initial Documentation
+title: Digitization
 number: 3000
 ---
 
