@@ -27,5 +27,4 @@ Once this is completed, open the index file and click on the pencil icon near th
 
 Add this code: 
 <iframe src="qgis2web/index.html" allowfullscreen="" width="100%" 
-
 to embed the map within your webpage.
