@@ -1,7 +1,7 @@
 full_rebuild: true
 name: Workflow for Digitizing the 1991 LA City Plans
 author: Jack Tieszen and Andy Rutkowski
-version: V 1.0
+version: 
 encoding: utf-8
 defaults:
   -
