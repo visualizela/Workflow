@@ -10,6 +10,7 @@ The purpose of this step for the project is to collect physical data (the binder
 Note: For this project (1991 Los Angeles City Planning Documents) this step has been completed, however for future projects that are similar, following this template would help to generate a standard for USC’s documents that are to be digitized within the VKC library.
 
 Open up a google spreadsheet and at the top of the columns write the following in order so that it looks like below: 
+
 **In Catalog    Name    Call #    Date    #Maps Included    Content/Notes**
 It should be six columns from A to F.
 
