@@ -12,6 +12,7 @@ Note: For this project (1991 Los Angeles City Planning Documents) this step has 
 Open up a google spreadsheet and at the top of the columns write the following in order so that it looks like below: 
 
 **In Catalog    Name    Call #    Date    #Maps Included    Content/Notes**
+
 It should be six columns from A to F.
 
 *In Catalog* refers to whether or not the file can be located within USC’s digital catalog through a search. This is a step done after all of the materials have been documented within the spreadsheet. Write “Yes” if the file can be found online and “No” if it can’t. If you find the file but it is under a different name, call number, or finding it required a different search than the others, indicate this through parentheses next to the initial answer e.g. “Yes (under different call number)”
