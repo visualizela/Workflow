@@ -26,5 +26,6 @@ Back at the repository create a new file called index.md, this will be your home
 Once this is completed, open the index file and click on the pencil icon near the History button.
 
 Add this code: 
+
 **<iframe src="qgis2web/index.html" allowfullscreen="" width="100%"**
 to embed the map within your webpage.
