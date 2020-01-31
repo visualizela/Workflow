@@ -1,6 +1,6 @@
 full_rebuild: true
-name: Digital Mapping Ecosystems
-author: Andy Rutkowski
+name: Workflow for digitizing the LA City Plans 1991
+author: Jack Tieszen and Andy Rutkowski
 version: V 1.0
 encoding: utf-8
 defaults:
