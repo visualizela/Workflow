@@ -11,4 +11,4 @@ The process of digitizing, georeferencing, and publishing the documents from the
 
 Before any of this work is done, it is imperative that a digital location (a Google drive was used for this internship, but any drive would be fine) is made so that all of the materials are located in one easy to access place. The individual worker can structure this drive how they like but for the sake of this workflow I will be documenting how I achieved this.
 
-<img src="images/_entries/GitHub.png" alt="hi" class="inline"/>
+<img src="images/_entries/GitHub.png" class="inline"/>
