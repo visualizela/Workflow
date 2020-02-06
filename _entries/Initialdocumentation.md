@@ -34,6 +34,9 @@ Other map like images such as building schematics: Count as individual maps (it 
 
 *Content/Notes* refers to whatever extraneous information the person who is documenting the content wishes to put in for the sake of distinguishing the information within the binders even more. This can include a lack of materials compared to the other binders, repeated binders with additional information, anomalies within the documentation, etc. 
 
+Once this is finished your spreadsheet should look like this:
+<img src="img/Inventory.png" width="500" height="500">
+
 These binders have similar structures and often have similar materials within them so be careful to distinguish them through documentation.
 Additional details: Include binders that have nothing within them but still maintain documentation through the form of Call # stickers on the side.
 
