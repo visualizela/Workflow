@@ -25,7 +25,7 @@ To do this go to the task bar on the top of the computer where it says web click
 This should present a map of the world upon the main user interface which will be used as our base for georeferencing.
 For this purpose you should zoom in on the area that is being georeferenced (in this case Los Angeles).
 From here you will go back to the taskbar and click on Raster and then click on Georeferencer like so:
-<img src="img/Georeferencer.png" width="500" height="500">
+<img src="img/Georeferencer.png" width="400" height="400">
 
 This will open up a new window where you will be uploading your .tiff files and creating points that will connect them to the OSM map on the original page.
 Within this window you are going to click the open raster button on the top left which is a button that looks like a blue and black checkerboard with a small green square with a white plus in it on the bottom right.
