@@ -12,7 +12,7 @@ In this folder you are also going to create individual folders for each file and
 Moving back to the files they  are going to be switched from .pdf files into .tiff files to do this you will need to open up the application automator, which should be available on a Mac computer.
 Once opened find and drag “Get Specified Finder Items,” “Render PDF Pages as Images,” and “Copy Finder Items” into the main area.
 Your interface should look like this (make sure that you change the resolution to 600 dots per inch to resemble the digitized file):
-<img src= "img/Automater.png"></div>
+![](img/Automater.png)
 
 In the “Get Specified Finder Items” box, add the files you wish to convert and press run.
 The files should show up in the Desktop as converted .tiff files.
