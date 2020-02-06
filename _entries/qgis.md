@@ -13,7 +13,7 @@ Moving back to the files they  are going to be switched from .pdf files into .ti
 Once opened find and drag “Get Specified Finder Items,” “Render PDF Pages as Images,” and “Copy Finder Items” into the main area.
 Your interface should look like this (make sure that you change the resolution to 600 dots per inch to resemble the digitized file):
 ![Click for reference](img/Automater.png)
-<img src="img/Automater.png" width="324" height="324">
+<img src="img/Automater.png" width="400" height="400">
 
 In the “Get Specified Finder Items” box, add the files you wish to convert and press run.
 The files should show up in the Desktop as converted .tiff files.
