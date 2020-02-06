@@ -31,6 +31,6 @@ Create another spreadsheet labeled LA Planning 1991 Master (or whatever your col
 *Extra Documentation* includes extraneous details that while not covered in the description could be considered important for finding certain information within the text. This can be asterixis indicating information, indications of continuation from previous pages, etc. This isn’t a necessary point of inclusion so if there isn’t additional information that the documenter views as important this column can be left blank for certain rows such as with the maps.
 
 Once this is finished your spreadsheet should look like this:
-<img src="img/Mastercatalog.png" width="1000" height="350">
+![Click for reference](img/Mastercatalog.png)
 
 Once all of this information is put into the spreadsheet you are going to go through and check the accuracy between the files and the spreadsheet. Once this is concluded change the names of the files within the drive to fit their respective ID’s.
