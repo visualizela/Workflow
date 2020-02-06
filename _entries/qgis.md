@@ -43,6 +43,7 @@ At this point you will begin georeferencing which uses three buttons on the top 
 The Add Point button on the left adds points, the Delete Point button in the middle deletes points, and the Move GCP point button moves the points.
 From here, using the map you are going to connect points from one window to the other. In the case of Los Angeles, the easiest points to find were street intersections. To do this you will click on a point from the .tiff map which will open a new window labeled Enter Map Coordinates like so:
 ![Click for reference](img/Geopoint.png)
+<img src="img/Geopoint.png" width="500" height="500">
 
 From there click on the “From Map Canvas” button. This will bring you to the OSM map.
 Once there you will locate the same point on the street as you clicked on for the .tiff file.
