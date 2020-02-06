@@ -29,11 +29,11 @@ From here you will go back to the taskbar and click on Raster and then click on 
 
 This will open up a new window where you will be uploading your .tiff files and creating points that will connect them to the OSM map on the original page.
 Within this window you are going to click the open raster button on the top left which is a button that looks like a blue and black checkerboard with a small green square with a white plus in it on the bottom right.
-![Click for reference](img/Open%20Raster.png)
+![Click for reference](img/Openraster.png)
 
 From there you are going to open up a .tiff file into this window.
 Before you begin to georeference click on the yellow gear in the window, it will say “transformation settings” and open a new window like so:
-![Click for reference](img/Transformation%20Settings.png)
+![Click for reference](img/Transformationsettings.png)
 
 Leave everything as is except change the Output raster name so instead of it ending with _modified, have it end with _geo. Save this output to the correct folder on the desktop e.g. save planning_00032 to the folder 000032
 Click OK
