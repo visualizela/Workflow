@@ -25,8 +25,10 @@ Back at the repository create a new file called index.md, this will be your home
 
 Once this is completed, open the index file and click on the pencil icon near the History button.
 
-Add this code: 
+Add the code below to embed the map within your webpage.: 
 
 **<iframe src="qgis2web/index.html" allowfullscreen="" width="100%"**
 
-to embed the map within your webpage.
+From there you can go to the settings and change the theme of the webpage to suit your data.
+
+[The published map should look like this.](https://visualizela.github.io/planningdocs/)
