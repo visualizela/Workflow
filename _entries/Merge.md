@@ -3,7 +3,7 @@ sectionid: Merge
 sectionclass: h1
 is-parent: yes
 title: Merge
-number: 5.500
+number: 6
 ---
 This step is only necessary if the map you have created was composed of a series of individual maps that has been stiched up together such as with this particular map. If you have a single map then you can skip this part.
 
