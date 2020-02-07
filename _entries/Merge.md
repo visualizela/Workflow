@@ -1,6 +1,6 @@
 ---
 sectionid: Merge
-sectionclass: h2
+sectionclass: h1
 is-parent: yes
 title: Merge
 number: 6000
