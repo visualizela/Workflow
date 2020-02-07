@@ -1,5 +1,5 @@
 ---
-sectionid: Uploading Map to GitHub
+sectionid: Uploading Your Map to GitHub
 sectionclass: h1
 is-parent: yes
 title: Uploading Map to GitHub
